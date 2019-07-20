@@ -4,7 +4,6 @@ end
 
 def create_an_array
   ["Hi", "I Am" ,"Mr.", "Array"]
-  
 end
 
 def add_element_to_end_of_array(array, element)
